@@ -6,7 +6,7 @@ To develop a Gradio-based chatbot that:
 - Helps students and researchers understand APA formatting rules
 - Retrieves exact and context-rich content from official APA 7 PDF resources
 - Communicates with clarity, professionalism, and educational intent
--
+
 🪛 Methodology
 - PDF Loading & Preprocessing: Combines multiple APA style guide PDFs and splits them into semantically meaningful chunks.
 - Vector Embedding with FAISS: Converts document chunks into vector embeddings using intfloat/multilingual-e5-small via a custom embedding class.
@@ -18,7 +18,7 @@ To develop a Gradio-based chatbot that:
 - Supports retrieval of official APA 7 reference examples, citation rules, statistics formatting, and paper setup
 - Provides structured, correct, and beginner-friendly answers to user questions
 - Delivers real-time interaction through a web interface
--
+
 🌷 Application
 This project can be extended or adapted for:
 - 1. Writing support systems in academic institutions
